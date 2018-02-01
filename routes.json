@@ -1,0 +1,4 @@
+
+{
+  "/iss-pass.json\\?lat=:id\\&lon=:id2\\&n=:id3": "/iss-pass.json?request.latitude=:id&request.longitude=:id2&request.passes=:id3"
+}
